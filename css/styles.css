@@ -86,11 +86,13 @@ i {
   font-size: 4rem;
   margin-bottom: 1.2rem;
   position: relative;
-  z-index: 2;
+  z-index: 3;
 }
 
 .banner p {
   font-size: 1.5rem;
+  position: relative;
+  z-index: 3;
 }
 
 .square {
@@ -335,6 +337,7 @@ i {
   margin: 0 auto;
   position: relative;
   z-index: 2;
+  padding: 2rem;
 }
 
 #team h2 span {
@@ -582,11 +585,11 @@ i {
 }
 
 .banner h2 {
-font-size: 3rem;
+  font-size: 3rem;
 }
 
 .banner p {
-  font-size: 1rem;
+  font-size: 1rem; 
 }
 
 /* Áreas de atuação */
